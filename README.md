@@ -206,5 +206,3 @@ This project is developed for academic and research purposes only. The model is 
 **Shri Vardhine C**
 
 M.Tech – Computer Science and Engineering
-
-GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
